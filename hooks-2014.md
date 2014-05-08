@@ -81,24 +81,51 @@
 
 ---
 
+# How to use Filters
+
+* add_filter()
+* remove_filter()
+* apply_filters()
+
+---
+
 # [fit] Demo Time!
-# [fit] Let's make a silly plugin
 
 ---
 
-![fit](assets/doge-meme.jpg)
+# Requirements
+
+* Shorten the length of product names on archive pages
 
 ---
 
-# Doge Plugin Requirements
-
-* "Doge-ify" the contents of a blog post or page.
-* Bonus points: doge-ify only the front page.
+# [fit] Back to...
+# [fit] Actions
 
 ---
 
-# Doge Plugin Tools
+# [fit] Actions = add extra *functionality*
 
-* We're going to be modifying the value of `the_content`
-* A doge algorithm
-* `is_front_page()` to check if we're on the front page
+---
+
+# How to use Actions
+
+* add_action()
+* remove_action()
+* do_action()
+
+---
+
+# [fit] Demo Time!
+
+---
+
+# Requirements
+
+* Move the elements of the single product page around
+
+---
+
+# [fit] All done!
+# [fit] Hope you learned
+# [fit] how to use all the hooks
