@@ -95,7 +95,7 @@
 
 # Requirements
 
-* Shorten the length of product names on archive pages
+* Double the value of all WooCommerce Coupons
 
 ---
 
